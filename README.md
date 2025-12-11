@@ -26,4 +26,4 @@ java AesFileCrypt
 
 ## Testing
 Included sample file: plaintext.txt (optional)
-//my code couldn't find the text file, so it's not running//
+
