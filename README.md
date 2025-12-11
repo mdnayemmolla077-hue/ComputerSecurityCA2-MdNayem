@@ -22,7 +22,7 @@ java AesFileCrypt
 
 ## Notes / Validation
 - Program validates file existence and key format. It prints friendly messages on error.
-- AES/CBC/PKCS5Padding used. Key printed in Base64 — keep it secret.
+- AES/CBC/PKCS5Padding used. Key printed in Base64 
 
 ## Testing
 Included sample file: plaintext.txt (optional)
